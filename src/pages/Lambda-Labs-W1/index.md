@@ -33,6 +33,12 @@ On the frontend I set up the prettier pre-commit hook, so that it will format to
 
 One of the big blockers this week was definitely learning Python and Django. I had a lot of trouble trying to figure out best practices on top of learning a whole new language and web framework. This didn't stop me from working on the API user endpoints. I spent a couple hours looking for guides on how to set up endpoints and trying to decide which guide would be best to work with. I finally found a walk-through I could work with [here](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/). Even though I could have spent 15-30 minutes following the walkthrough to get the endpoints set-up, I decided to really look into each step. I've learned a lot about the file structure, settings, imports, endpoints, and python in general from researching each step. It took me a long time to get everything working, but I learned a lot and it was worth it.
 
+![login](login.jpg)
+
+![logout](logout.jpg)
+
+![register](register.jpg)
+
 # Part Two Milestone Reflections
 
 ### Working as a team

@@ -5,7 +5,8 @@ date: '2018-11-09T22:12:03.284Z'
 
 # Part One Individual Accomplishments this Week
 
-[Contribution graph (Handle: ckirkwood94)](https://github.com/Lambda-School-Labs/Labs8-OfflineReader/graphs/contributors)
+GitHub Handle: ckirkwood94
+![Git hub contribution graph](contribution-graph-week-one.jpg)
 
 On the frontend I set up the prettier pre-commit hook, so that it will format to code before committing the code. This week included a lot of research into python and Django. I helped with the backend deployment with Vera and Eva. I also worked on the user API endpoints. I worked on organizing the file structure of the backend as well.
 

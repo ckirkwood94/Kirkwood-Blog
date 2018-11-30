@@ -5,7 +5,7 @@ date: '2018-11-30T22:12:03.284Z'
 
 # Part One Individual Accomplishments this Week
 
-<!-- [White board session]() -->
+[White board session](https://www.youtube.com/watch?v=iu-o628ieZg&feature=youtu.be)
 
 GitHub Handle: ckirkwood94
 ![Git hub contribution graph](contribution-graph-week-three.jpg)
